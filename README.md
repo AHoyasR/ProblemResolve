@@ -14,3 +14,4 @@ Mensajes.
 Funcionalidades:
 Chat en el que el usuario se puede comunicar con el técnico, subir archivos por ejemplo una imagen aclarativa del problema.
 Sección de estadísticas como por ejemplo número de incidencias resueltas, asignadas a un técnico, sin asignar, sin resolver...
+Menú con incidencias que tiene abiertas o resueltas un usuario o un técnico.
