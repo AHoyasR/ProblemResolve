@@ -20,7 +20,7 @@ Dentro de una incidencia, cada usuario podrá comentar y añadir archivos y eso 
 
 **ENTIDADES PRINCIPALES**
 
--Incidencias(Que tendrá asociados usuarios, técnicos y mensajes).
+-Incidencias(Son creadas por usuarios, asignadas por los técnicos y dentro se comunican por mensajes).
 
 -Usuarios(Puede ser cliente o técnico).
 
