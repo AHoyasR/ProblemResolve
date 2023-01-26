@@ -17,12 +17,12 @@ FUNCIONES PÚBLICAS: Una persona puede registrarse, ver valoraciones de otros us
 FUNCIONES PRIVADAS: Creación de incidencias, asignación de incidencias, chat interno para comunicarse técnico y usuario, listado de incidencias que tiene un usuario, estadísticas para el técnico de incidencias resueltas y asignadas.
 
 ENTIDADES PRINCIPALES
-Incidencias.(Que tendrá asociados usuarios, técnicos y mensajes)
-Usuarios.(Puede ser cliente o técnico)
-Mensajes.(Se crearán dentro de incidencias para comunicación entre cliente y técnico).
+-Incidencias(Que tendrá asociados usuarios, técnicos y mensajes).
+-Usuarios(Puede ser cliente o técnico).
+-Mensajes(Se crearán dentro de incidencias para comunicación entre cliente y técnico).
 
 FUNCIONALIDADES INTERNAS:
 
-Servicio que manda un mensaje al correo asociado cuando se comenta la incidencia o hay algún cambio en esta.
-Listado de incidencias(abiertas, cerradas o sin asignar), que se procesará a través de una base de datos.
-Posibilidad de subir imágenes cómo aclaración de la incidencia.
+-Servicio que manda un mensaje al correo asociado cuando se comenta la incidencia o hay algún cambio en esta.
+-Listado de incidencias(abiertas, cerradas o sin asignar), que se procesará a través de una base de datos.
+-Posibilidad de subir imágenes cómo aclaración de la incidencia.
