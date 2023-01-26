@@ -6,7 +6,7 @@ Esta página web estará pensada para resolver incidencias, de tal forma que un 
 Dentro de una incidencia, cada usuario podrá comentar y añadir archivos y eso será público tanto para él como para la persona que lo va a resolver, sin embargo habrá una parte de comentarios internos que el usuario no verá y solo se podrá ver dentro de las personas que van a resolver las incidencias.
 
 Como entidades principales tendremos. 
-Incidencias.(Que tendrá asociados usuarios y técnicos)
+Incidencias.(Que tendrá asociados usuarios, técnicos y mensajes)
 Usuarios.(Que crearán incidencias)
 Técnicos.(Tendrán asociadas incidencias).
 Mensajes.
