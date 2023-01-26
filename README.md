@@ -30,6 +30,3 @@ Dentro de una incidencia, cada usuario podrá comentar y añadir archivos y eso 
 
 -Servicio que manda un mensaje al correo asociado cuando se comenta la incidencia o hay algún cambio en esta.
 
--Listado de incidencias(abiertas, cerradas o sin asignar), que se procesará a través de una base de datos.
-
--Posibilidad de subir imágenes cómo aclaración de la incidencia.
